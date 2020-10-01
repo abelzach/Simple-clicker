@@ -6,3 +6,8 @@ body button{
     text-transform: uppercase;
     background-color:burlywood;
 }
+
+p {
+    color: cornflowerblue;
+    font-size: medium;
+}
